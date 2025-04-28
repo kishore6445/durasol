@@ -1,5 +1,7 @@
 import type { Metadata } from "next"
-import SolarPanelClientPage from "./SolarPanelClientPage"
+//import SolarPanelClientPage from "./SolarPanelClientPage"
+
+import SolarPanelClientPage from "./solarpanelClientPage"
 
 export const metadata: Metadata = {
   title: "Solar Panels | Durasol Energi",
